@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "SimpleWebApi/bin/Release/net8.0/publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/e5597287-63a2-4215-a1d7-971b884071ec/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/webapp-simple-api-01"
+}
